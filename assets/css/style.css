@@ -15,9 +15,11 @@ body {
     color: #ffffff;
 }
 
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
+
 }
 
 .header h1 .seo {
@@ -40,7 +42,6 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
 a {
     color: #ffffff;
     text-decoration: none;
